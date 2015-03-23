@@ -1,8 +1,8 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
+  background-color: #ee2323; /* df1717 */
   text-align: center;
-  color: #000;  /* change font color */
+  color: #c;  /*  */
   line-height: 36px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -14,7 +14,7 @@ body,html {
 
 }
 a, a:active, a:visited {
-  color: #0066CC;
+  color: #df1717C; 
 }
 
 h1, h2, h3, h4 {
@@ -29,7 +29,7 @@ h1 {
 }
 
 #container {
-  background-image: url("../img/cement.jpg"); /* change */
+  background-image: url("../img/Background.jpg"); /* change */
   min-height: 100%;
   max-width: 960px;
   margin: 0 auto;
